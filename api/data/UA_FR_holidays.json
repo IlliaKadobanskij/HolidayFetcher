@@ -1,0 +1,246 @@
+{
+    "UA": [
+        {
+            "name": "Constitution Day (Suspended)",
+            "description": "Ukraine’s Constitution Day is a public holiday on June 28 to celebrate the country’s constitution.",
+            "country": {
+                "id": "ua",
+                "name": "Ukraine"
+            },
+            "date": {
+                "iso": "2024-06-28",
+                "datetime": {
+                    "year": 2024,
+                    "month": 6,
+                    "day": 28
+                }
+            },
+            "type": [
+                "Observance"
+            ],
+            "primary_type": "Suspended National Holiday",
+            "canonical_url": "https://calendarific.com/holiday/ukraine/constitution-day",
+            "urlid": "ukraine/constitution-day",
+            "locations": "All",
+            "states": "All"
+        },
+        {
+            "name": "Kupala Night",
+            "description": "Kupala Night is celebrated in Ukraine on July 7 each year.",
+            "country": {
+                "id": "ua",
+                "name": "Ukraine"
+            },
+            "date": {
+                "iso": "2024-07-06",
+                "datetime": {
+                    "year": 2024,
+                    "month": 7,
+                    "day": 6
+                }
+            },
+            "type": [
+                "Observance"
+            ],
+            "primary_type": "Observance",
+            "canonical_url": "https://calendarific.com/holiday/ukraine/ivan-kupala-day",
+            "urlid": "ukraine/ivan-kupala-day",
+            "locations": "All",
+            "states": "All"
+        },
+        {
+            "name": "Navy Day",
+            "description": "Navy Day is a national Ukrainian observance that is celebrated on the last Sunday in July each year.",
+            "country": {
+                "id": "ua",
+                "name": "Ukraine"
+            },
+            "date": {
+                "iso": "2024-07-07",
+                "datetime": {
+                    "year": 2024,
+                    "month": 7,
+                    "day": 7
+                }
+            },
+            "type": [
+                "Observance"
+            ],
+            "primary_type": "Observance",
+            "canonical_url": "https://calendarific.com/holiday/ukraine/navy-day",
+            "urlid": "ukraine/navy-day",
+            "locations": "All",
+            "states": "All"
+        },
+        {
+            "name": "Ukrainian Statehood Day",
+            "description": "Ukrainian Statehood Day is a suspended national holiday in Ukraine",
+            "country": {
+                "id": "ua",
+                "name": "Ukraine"
+            },
+            "date": {
+                "iso": "2024-07-15",
+                "datetime": {
+                    "year": 2024,
+                    "month": 7,
+                    "day": 15
+                }
+            },
+            "type": [
+                "Observance"
+            ],
+            "primary_type": "Suspended National Holiday",
+            "canonical_url": "https://calendarific.com/holiday/ukraine/statehood-day",
+            "urlid": "ukraine/statehood-day",
+            "locations": "All",
+            "states": "All"
+        },
+        {
+            "name": "Baptism of Kyivan Rus",
+            "description": "Baptism of Kyivan Rus is a observance in Ukraine",
+            "country": {
+                "id": "ua",
+                "name": "Ukraine"
+            },
+            "date": {
+                "iso": "2024-07-28",
+                "datetime": {
+                    "year": 2024,
+                    "month": 7,
+                    "day": 28
+                }
+            },
+            "type": [
+                "Observance"
+            ],
+            "primary_type": "Observance",
+            "canonical_url": "https://calendarific.com/holiday/ukraine/baptism-of-kyivan-rus",
+            "urlid": "ukraine/baptism-of-kyivan-rus",
+            "locations": "All",
+            "states": "All"
+        },
+        {
+            "name": "Independence Day (Suspended)",
+            "description": "Ukraine’s Independence Day is annually celebrated on August 24 to mark the anniversary of the country’s declaration of independence in 1991.",
+            "country": {
+                "id": "ua",
+                "name": "Ukraine"
+            },
+            "date": {
+                "iso": "2024-08-24",
+                "datetime": {
+                    "year": 2024,
+                    "month": 8,
+                    "day": 24
+                }
+            },
+            "type": [
+                "Observance"
+            ],
+            "primary_type": "Suspended National Holiday",
+            "canonical_url": "https://calendarific.com/holiday/ukraine/independence-day",
+            "urlid": "ukraine/independence-day",
+            "locations": "All",
+            "states": "All"
+        },
+        {
+            "name": "September Equinox",
+            "description": "September Equinox in Ukraine (Kyiv)",
+            "country": {
+                "id": "ua",
+                "name": "Ukraine"
+            },
+            "date": {
+                "iso": "2024-09-22T15:43:33+03:00",
+                "datetime": {
+                    "year": 2024,
+                    "month": 9,
+                    "day": 22
+                }
+            },
+            "type": [
+                "Season"
+            ],
+            "primary_type": "Season",
+            "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+            "urlid": "seasons/autumnal-equniox",
+            "locations": "All",
+            "states": "All"
+        }
+    ],
+    "FR": [
+        {
+            "name": "Bastille Day",
+            "description": "Bastille Day is an occasion to honor the French Republic. It is a public holiday in France.",
+            "country": {
+                "id": "fr",
+                "name": "France"
+            },
+            "date": {
+                "iso": "2024-07-14",
+                "datetime": {
+                    "year": 2024,
+                    "month": 7,
+                    "day": 14
+                }
+            },
+            "type": [
+                "National holiday"
+            ],
+            "primary_type": "National holiday",
+            "canonical_url": "https://calendarific.com/holiday/france/bastille-day",
+            "urlid": "france/bastille-day",
+            "locations": "All",
+            "states": "All"
+        },
+        {
+            "name": "Assumption of Mary",
+            "description": "The Feast of the Assumption of Mary is an occasion for Catholics to honor the belief that God assumed the Virgin Mary to heaven.",
+            "country": {
+                "id": "fr",
+                "name": "France"
+            },
+            "date": {
+                "iso": "2024-08-15",
+                "datetime": {
+                    "year": 2024,
+                    "month": 8,
+                    "day": 15
+                }
+            },
+            "type": [
+                "National holiday"
+            ],
+            "primary_type": "National holiday",
+            "canonical_url": "https://calendarific.com/holiday/france/assumption",
+            "urlid": "france/assumption",
+            "locations": "All",
+            "states": "All"
+        },
+        {
+            "name": "September Equinox",
+            "description": "September Equinox in France (Paris)",
+            "country": {
+                "id": "fr",
+                "name": "France"
+            },
+            "date": {
+                "iso": "2024-09-22T14:43:33+02:00",
+                "datetime": {
+                    "year": 2024,
+                    "month": 9,
+                    "day": 22
+                }
+            },
+            "type": [
+                "Season"
+            ],
+            "primary_type": "Season",
+            "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+            "urlid": "seasons/autumnal-equniox",
+            "locations": "All",
+            "states": "All"
+        }
+    ]
+}
